@@ -1,7 +1,7 @@
 # Waterfall Config Library for Java
 > a simplified configuration library for the JVM, heavily-based on *typesafehub Config*, with some additional features and strongly opinionated
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.sergiofgonzalez/waterfall-config/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.sergiofgonzalez/waterfall-config/badge.svg)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.sergiofgonzalez/waterfall-config/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.sergiofgonzalez/waterfall-config)
 
 # wconf()
 Use `wconf()` for configuration properties management in Java project. *wconf* allows for hierarchical (i.e. waterfall) merging of configuration properties with an established precedence between the sources.

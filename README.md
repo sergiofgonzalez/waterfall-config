@@ -1,4 +1,4 @@
-# Waterfall Config Library for Java [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.sergiofgonzalez/waterfall-config/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.sergiofgonzalez/waterfall-config)
+# Waterfall Config Library for Java [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.sergiofgonzalez/waterfall-config/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.sergiofgonzalez/waterfall-config) [![Build Status](https://travis-ci.org/sergiofgonzalez/waterfall-config.svg?branch=features%2Fbadges)](https://travis-ci.org/sergiofgonzalez/waterfall-config)
 > a simplified configuration library for the JVM, heavily-based on *typesafehub Config*, with some additional features and strongly opinionated
 
 

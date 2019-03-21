@@ -9,7 +9,10 @@
 
 ## If you want to create an issue/enhacement, or looking to contribute make sure to visit the new home for the library at https://github.com/Accenture/waterfall-config.
 
-## Sorry for any inconveniences!
+## Apologies for any inconveniences!
+![closed-zoo.jpg][1]
+
+  [1]: http://i.imgur.com/UzR3IE4.jpg "Government shut down, no zoo for you!"
 
 # wconf()
 Use `wconf()` for configuration properties management in Java project. *wconf* allows for hierarchical (i.e. waterfall) merging of configuration properties with an established precedence between the sources.
